@@ -1,0 +1,28 @@
+.container {
+width: 300px;
+border-radius: 2px;
+background: silver;
+margin-top: 50px;
+}
+
+#box {
+height: 45px;
+width: 0%;
+background: red;
+border-radius: 2px;
+text-align: right;
+color: #fff;
+font-size: 17px;
+font-family: monospace;
+}
+
+button {
+height: 45px;
+width: 70px;
+background: #000;
+border: 2px #000 outset;
+border-radius: 5px;
+color: #fff;
+font-size: 18px;
+margin-top: 25px;
+}
